@@ -1,0 +1,9 @@
+name: TagPlugin
+main: vorge\TagPlugin\Main
+author: vorge
+api: 3.0.0
+version: 1.0
+
+commands:
+  tags:
+  description: "This command will open up a shop were you can buy tags!"
